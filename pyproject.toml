@@ -1,0 +1,9 @@
+[project]
+name = "wb-streamer"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "edalize>=0.6",
+    "fusesoc>=2.0",
+]
