@@ -1,0 +1,5 @@
+build/
+fusesoc_libraries/
+.venv/
+fusesoc.conf
+.python-version
